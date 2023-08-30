@@ -26,6 +26,6 @@ p {
     flex-direction: row;
     margin-right: 16px;
     align-items: center;
-    justify-content: center; /* Add this line */
+    justify-content: center;
   }
   

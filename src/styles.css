@@ -4,10 +4,10 @@
     background-repeat: no-repeat;
     text-align: center;
     padding: 30px;
-    color: white; /* Set text color to ensure visibility on the background */
+    color: white; 
   }
   
   .header-text h4 {
-    margin: 0; /* Remove default margin to avoid spacing around the text */
+    margin: 0;
   }
   
