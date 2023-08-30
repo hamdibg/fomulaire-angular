@@ -1,0 +1,13 @@
+.header-text {
+    background-image: url('../assets/img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 30px;
+    color: white; /* Set text color to ensure visibility on the background */
+  }
+  
+  .header-text h4 {
+    margin: 0; /* Remove default margin to avoid spacing around the text */
+  }
+  

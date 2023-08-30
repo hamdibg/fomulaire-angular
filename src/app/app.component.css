@@ -1,0 +1,31 @@
+p {
+  font-family: Lato;
+}
+
+#root {
+  padding: 30px;
+}
+
+.register-form {
+  max-width: 550px;
+  margin: auto;
+}
+
+.background-image {
+    background-image: url('../assets/img.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;  
+    display: block; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-info-row {
+    display: flex;
+    flex-direction: row;
+    margin-right: 16px;
+    align-items: center;
+    justify-content: center; /* Add this line */
+  }
+  
